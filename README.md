@@ -8,7 +8,7 @@
  <br/>
  <br/>
   
-####  :clipboard: I use it often 
+# 🔥 Tech Stack 🔥
   
  <br/>
  
