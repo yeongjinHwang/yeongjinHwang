@@ -41,8 +41,14 @@
 # 🖱 Embedded Board ⌨
 <img src="https://img.shields.io/badge/Arduino-black?style={flat}&logo=arduino&logoColor=sky"/> <img src="https://img.shields.io/badge/micro:bit-black?style={flat}&logo=micro:bit&logoColor=00ED00"/>  <img src="https://img.shields.io/badge/Raspberry Pi-red?style={flat}&logo=raspberrypi&logoColor=black"/>  <img src="https://img.shields.io/badge/ESP32-black?style={flat}&logo=Espressif&logoColor=red"/>
 
-#### :pencil2: Study log
- 
+# :pencil2: ProJect log
+| **구분** | **활동명** | **기간** |
+|:---:|---|---:|
+| 교내 | 제 3회 INU 코드 페스티벌 장려상 | 2021.12.18 |
+| 연구 | 와이파이 채널상태정보(CSI)를 활용한 실내 위치추적 알고리즘 개발 | 2021.09 ~ 2021.12 |
+| 교내 | 2021 INU 전공 및 진로 페스티벌 TA (임베디드시스템공학과) | 2021.08 ~ 2021.08 |
+| 교외 | SCPC 2021 Round 2 참여 | 2021.08.07 |
+| 교내 | 인천대학교 Wireless Communication Lab (무선통신연구실) 학부연구생 | 2021.07 ~ 2022.12|
   <br/>
   
 # ⚡ Contact ☎
