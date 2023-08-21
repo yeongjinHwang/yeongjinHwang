@@ -36,12 +36,23 @@
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  
-   <br/>
-   <br/>
- 
+ <br/>
+   
+# 🖱 Embedded Board ⌨
+<img src="https://img.shields.io/badge/Arduino-black?style={flat}&logo=arduino&logoColor=sky"/> <img src="https://img.shields.io/badge/micro:bit-black?style={flat}&logo=micro:bit&logoColor=00ED00"/>  <img src="https://img.shields.io/badge/Raspberry Pi-red?style={flat}&logo=raspberrypi&logoColor=black"/>  <img src="https://img.shields.io/badge/ESP32-black?style={flat}&logo=Espressif&logoColor=red"/>
+
 #### :pencil2: Study log
  
   <br/>
   
-(https://gongjin-repository.tistory.com/) <- my blog
-####  : 대학원 2차시 / 백엔드 및 데이터, AI 분야 
+# ⚡ Contact ☎
+
+<div align="left">
+  
+   
+: 대학원 2차시 / 백엔드 및 데이터, AI 분야 
+
+- Blog : [https://blog.naver.com/kjy6135](https://gongjin-repository.tistory.com/)
+
+- E-mail : yeongjin.gongjin@gmail.com
+
