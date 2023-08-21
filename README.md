@@ -43,4 +43,4 @@
  
   <br/>
   
-![yeongjinHwang's github stats](https://github-readme-stats.vercel.app/api?username=yeongjinHwang&show_icons=true)
+(https://gongjin-repository.tistory.com/) <- my blog
