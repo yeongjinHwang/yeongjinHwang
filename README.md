@@ -8,7 +8,7 @@
  <br/>
  <br/>
   
-####  :clipboard: Once I've Used 
+####  :clipboard: I use it often 
   
  <br/>
  
@@ -26,7 +26,6 @@
 
  <br/>
  
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
