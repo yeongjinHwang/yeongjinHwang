@@ -44,3 +44,4 @@
   <br/>
   
 (https://gongjin-repository.tistory.com/) <- my blog
+####  : 대학원 2차시 / 백엔드 및 데이터, AI 분야 
