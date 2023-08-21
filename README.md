@@ -52,7 +52,7 @@
    
 : 대학원 2차시 / 백엔드 및 데이터, AI 분야 
 
-- Blog : [https://blog.naver.com/kjy6135](https://gongjin-repository.tistory.com/)
+- Blog : [https://blog.naver.com/kjy6135](https://gongjin-repository.tistory.com](https://gongjin-repository.tistory.com/)
 
 - E-mail : yeongjin.gongjin@gmail.com
 
