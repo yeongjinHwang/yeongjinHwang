@@ -41,17 +41,24 @@
 # 🖱 Embedded Board ⌨
 <img src="https://img.shields.io/badge/Arduino-black?style={flat}&logo=arduino&logoColor=sky"/> <img src="https://img.shields.io/badge/micro:bit-black?style={flat}&logo=micro:bit&logoColor=00ED00"/>  <img src="https://img.shields.io/badge/Raspberry Pi-red?style={flat}&logo=raspberrypi&logoColor=black"/>  <img src="https://img.shields.io/badge/ESP32-black?style={flat}&logo=Espressif&logoColor=red"/>
 
-# :pencil2: ProJect log
+ <br/>
+ 
+# :pencil2:  log
 | **구분** | **활동명** | **기간** |
 |:---:|---|---:|
 | 연구 | Applied Ai System Lab 학부연구원 | 2020.12 ~ 2023.02 |
 | 연구 | Applied Ai System Lab 소속 대학원연구원 | 2023.03 ~ |
-| 과제 | Multimodal Information Fusion 기반의 실시간 포괄상황인지 프레임워크 개발 | 2021.03 ~ |
-| 교내 |  |  |
-| 과제 |  |  |
-| 과제 |  |  |
-| 과제 |  |  |
-| 과제 |  |  |
+| 대학 | 캡스톤 - Multi Tracking Multi Camera를 활용한 무인편의점 | 2022.02 ~ 2022.11 |
+| 논문 | 한국정보처리학회 대학생 논문 제1저자 개제 | 2022.11 |
+| TA | 마이크로컨트롤러 응용 및 설계(2학년)과목 TA | 2022.09 ~ 2022.11 |
+| TA | 모바일SW(4학년)과목 TA | 2023.03 ~ 2023.06 |
+| TA | 마이크로컨트롤러 응용 및 설계(2학년)과목 TA | 2023.09 ~ |
+| 과제 | Multimodal Information Fusion 기반의 실시간 포괄상황인지 프레임워크 개발 | 2021.03 ~ 2022.02 |
+| 과제 | 딥러닝 기반 운동기능 모션분석 및 UI/UX 개발 | 2022.01 ~ 2022.02 |
+| 과제 | 대면·비대면 병행 스윙 교정을 위한 Customized AI 코칭 알고리즘 개발 | 2022.10 ~ 2023.01 |
+| 과제 | 동적 모션 비교분석 서비스를 위한 포터블 Back-end AI 프레임워크 개발 | 2023.07 ~ |
+
+
   <br/>
   
 # ⚡ Contact ☎
