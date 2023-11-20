@@ -71,7 +71,7 @@
 <div align="left">
   
    
-: 대학원 2차시 / 백엔드 및 데이터, AI 분야 
+: 대학원 2차시 / 컴퓨터비젼 및 데이터처리, AI 분야 
 
 - Blog : [https://gongjin-repository.tistory.com](https://gongjin-repository.tistory.com/)
 
