@@ -70,7 +70,7 @@
   
 [[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0jinhwang)](https://solved.ac/0jinhwang/)
 
-  <br/>](url)
+  <br/>(url)]
   
   # ⚡ Contact ☎
 
