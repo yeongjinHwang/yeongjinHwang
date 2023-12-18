@@ -73,6 +73,9 @@
 
   <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjin.gongjin&show_icons=true&theme=radical)
+
+  <br/>
   
   # ⚡ Contact ☎
 
