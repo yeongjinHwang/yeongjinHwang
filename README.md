@@ -66,16 +66,11 @@
 | 연구과제 | 대면·비대면 병행 스윙 교정을 위한 Customized AI 코칭 알고리즘 개발 | 2022.10 ~ 2023.01 |
 | 연구과제 | 동적 모션 비교분석 서비스를 위한 포터블 Back-end AI 프레임워크 개발 | 2023.07 ~ |
 
-####  :wave: 백준은...방학때라도 열심히 하기...
   <br/>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0jinhwang)](https://solved.ac/0jinhwang/)
+[[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0jinhwang)](https://solved.ac/0jinhwang/)
 
-  <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INUaisl&show_icons=true&theme=radical)
-
-  <br/>
+  <br/>](url)
   
   # ⚡ Contact ☎
 
