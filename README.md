@@ -73,7 +73,7 @@
 
   <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjin.gongjin@gmail.com&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjinHwang&show_icons=true&theme=radical)
 
   <br/>
   
