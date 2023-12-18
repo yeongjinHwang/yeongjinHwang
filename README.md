@@ -65,7 +65,7 @@
 
 
   <br/>
-
+####  :wave: 백준은...방학때라도 열심히 하기...
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=0jinhwang)](https://solved.ac/0jinhwang/)
 
   <br/>
@@ -76,7 +76,7 @@
 <div align="left">
   
    
-: 대학원 2차시 / 컴퓨터비젼 및 데이터처리, AI 분야 
+: 대학원 2차시 / 컴퓨터비젼 및 데이터처리, AI 분야 + 취미로 게임 개발
 
 - Blog : [https://gongjin-repository.tistory.com](https://gongjin-repository.tistory.com/)
 
