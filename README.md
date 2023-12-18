@@ -6,7 +6,6 @@
 ####  :wave: 거의 모든 작업은 연구실 repository에서 비공개로 수행합니다.
   
  <br/>
- <br/>
   
 # 🔥 Tech Stack 🔥
   
