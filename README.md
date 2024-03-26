@@ -74,6 +74,7 @@
   
    
 : 대학원 3차시 / 컴퓨터비젼 및 데이터사이언스, AI 분야
+: 학부/인천대학교 임베디드시스템공학과, 석사/인천대학교 임베디드시스템공학과 and AI+X 융합전공
 
 - Blog : [https://gongjin-repository.tistory.com](https://gongjin-repository.tistory.com/)
 
