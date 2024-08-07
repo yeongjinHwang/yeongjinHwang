@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/Arduino-black?style={flat}&logo=arduino&logoColor=sky"/> <img src="https://img.shields.io/badge/micro:bit-black?style={flat}&logo=micro:bit&logoColor=00ED00"/>  <img src="https://img.shields.io/badge/Raspberry Pi-red?style={flat}&logo=raspberrypi&logoColor=black"/>  <img src="https://img.shields.io/badge/ESP32-black?style={flat}&logo=Espressif&logoColor=red"/>
 
  <br/>
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjinHwang&show_icons=true&theme=dracula)
 # :pencil2:  log
 | **구분** | **활동명** | **기간** |
 |:---:|---|---:|
