@@ -45,7 +45,7 @@
 
  <br/>
  
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjinHwang)](https://github.com/yeongjinHwang/github-readme-stats)
+[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeongjinHwang)](https://github.com/yeongjinHwang/github-readme-stats)&hide=stars,contribs&count_private=true
 
  <br/>
 # :pencil2:  log
