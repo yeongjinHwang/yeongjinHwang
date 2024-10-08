@@ -53,7 +53,7 @@
 | 논문 | Multi-target, Multi-Camera Ai Store | 2022.11 |
 | 논문 | 영상 기반 모션 데이터 비교분석 기법 | 게재 수락 |
 | 논문 | scopus | 리뷰 진행중 |
-| 특허 | 모션 비교를 위한 동적 유사도 측정 방법 및 장치 {Dynamic similarity measurement method and apparatus for motion comparison} | 출원 |
+| 특허 | 모션 비교를 위한 동적 유사도 측정 방법 및 장치 {Dynamic similarity measurement method and apparatus for motion comparison} | 출원(발명자등재) |
 | 특허 | AI영상분석을 통한 골프스윙 시퀀스 알고리즘 | 진행중 |
 | TA | 마이크로컨트롤러 응용 및 설계(2학년)과목 TA | 2022.09 ~ 2022.11 |
 | TA | 모바일SW(4학년)과목 TA | 2023.03 ~ 2023.06 |
