@@ -82,6 +82,7 @@
 : 학부/인천대학교 임베디드시스템공학과, 석사/인천대학교 임베디드시스템공학과 and AI+X 융합전공
 
 - Blog : [https://gongjin-repository.tistory.com](https://gongjin-repository.tistory.com/)
+- Blog : https://velog.io/@vision-task/
 
 - E-mail : yeongjin.gongjin@gmail.com
 
