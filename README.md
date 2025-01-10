@@ -1,6 +1,4 @@
 <div align="center"> 
-
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=yeongjinHwang&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome ! 안녕하세요 !!!
 ####  :wave: 거의 모든 작업은 연구실 repository에서 비공개로 수행합니다.
